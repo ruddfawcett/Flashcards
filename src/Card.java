@@ -1,3 +1,5 @@
+package src;
+
 public class Card {
   private String term;
   private String definition;

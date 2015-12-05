@@ -1,6 +1,8 @@
 import java.util.List;
 import java.util.ArrayList;
 
+import src.*;
+
 public class QuizTest {
   public static void main(String[] args) {
     List<Card> cards = new ArrayList<Card>();

@@ -2,7 +2,7 @@
 A simple Quizlet-like learn mode console app written in Java.
 
 ### Todo
- - [ ] Add some form of introduction to tool
+ - [ ] An introductory message
  - [ ] Track user progress
  - [ ] Load cards from JSON
  - [ ] Add some form of GUI
